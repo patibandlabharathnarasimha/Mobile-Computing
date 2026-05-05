@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Campus Companion</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="view_tasks">View Tasks</string>
+    <string name="name_required">Please enter your name</string>
+    <string name="welcome_message">Welcome, %1$s!</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="task_completed">Task marked complete!</string>
+    <string name="missing_task_data">Task information unavailable</string>
+</resources>
